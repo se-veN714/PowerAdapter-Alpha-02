@@ -1,0 +1,27 @@
+# ===== 深度学习（PyTorch需单独安装） =====
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu130
+torch
+
+# ===== GBDT模型（Project-Beta新增） =====
+lightgbm>=4.0
+
+# ===== 数据处理 =====
+pandas>=2.2.0
+numpy>=1.26.0
+
+# ===== 评估 =====
+scipy>=1.12.0
+scikit-learn>=1.4.0
+
+# ===== 可视化 =====
+matplotlib>=3.8.0
+
+# ===== 数据源 =====
+akshare>=1.14.0
+baostock
+
+# ===== 进度条 =====
+tqdm>=4.66.0
+
+# ===== 开发工具 =====
+jupyter>=1.1.0

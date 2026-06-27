@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Data (not pushed)
+data/
+
+# Model checkpoints (not pushed)
+checkpoints/
+
+# Logs and output files (not pushed)
+logs/
+*.log
+wb-remote-monitor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Internal docs (not pushed)
+GUIDE.md
+HANDOFF.md
+cb_context.md
+
+# CodeBuddy internal
+.codebuddy/
+
+# History
+his/
+
+# OS
+.DS_Store
+Thumbs.db
